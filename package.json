@@ -1,0 +1,27 @@
+{
+  "name": "tarea1_desarrolloaplicaciones.git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryseguram/Tarea1_DesarrolloAplicaciones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryseguram/Tarea1_DesarrolloAplicaciones/issues"
+  },
+  "homepage": "https://github.com/henryseguram/Tarea1_DesarrolloAplicaciones#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
